@@ -6,6 +6,8 @@ Just a silly middleware for redux
 
 ### Usage
 ```
+import AnotherOne from 'another-one';
+
 const store = configureStore({
   reducer: rootReducer,
   middleware: [...getDefaultMiddleware(), AnotherOne]
