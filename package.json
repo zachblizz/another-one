@@ -1,5 +1,5 @@
 {
-  "name": "another-one",
+  "name": "@jimmyfargo/another-one",
   "version": "1.0.0",
   "description": "this is another one",
   "main": "./src/index.ts",
@@ -9,7 +9,7 @@
     "wp": "webpack"
   },
   "keywords": [],
-  "author": "",
+  "author": "jimmyfargo",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.9.6",
