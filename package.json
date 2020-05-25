@@ -1,6 +1,6 @@
 {
   "name": "@jimmyfargo/another-one",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is another one",
   "main": "./src/index.ts",
   "scripts": {
